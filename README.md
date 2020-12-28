@@ -43,3 +43,5 @@ Problem Set 7
 
 Movies - 100%
 Houses - 100%
+
+*Some code might be wrong, since i've not meticulously update the folder on drive*
