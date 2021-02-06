@@ -43,4 +43,8 @@ Problem Set 7
 Movies - 100%
 Houses - 100%
 
-*Some code might be wrong, since i've not meticulously update the folder on drive*
+| Problem Set | Name | Language | Result |
+|:-----------:|:----:|:--------:|:------:|
+|1|Hello|C|100/100
+|1|Mario (more)|C|100/100
+|1|Credit|C|100/100
