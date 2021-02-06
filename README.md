@@ -3,48 +3,22 @@
 📕 Problem sets from [cs50](https://cs50.harvard.edu/college/2020/fall/)
 </h1>
 
-Results : 
-
-Problem Set 1
-
-Hello - 100%
-Mario (More) - 100%
-Credit - 100%
-
-Problem Set 2
-
-Readability - 100%
-Substitution - 100%
-
-Problem Set 3
-
-Plurality - 100%
-Tideman - 100%
-
-Problem Set 4
-
-Filter (More) - 100%
-Recover - 100%
-
-Problem Set 5
-
-Speller - 100%
-
-Problem Set 6
-
-Sentimental / Hello - 100%
-Sentimental / Mario (More) - 100%
-Sentimental / Credit - 100%
-Sentimental / Readability - 100%
-DNA - 100%
-
-Problem Set 7
-
-Movies - 100%
-Houses - 100%
-
 | Problem Set | Name | Language | Result |
 |:-----------:|:----:|:--------:|:------:|
 |1|Hello|C|100/100
 |1|Mario (more)|C|100/100
 |1|Credit|C|100/100
+|2|Readability|C|100/100
+|2|Substitution|C|100/100
+|3|Plurality|C|100/100
+|3|Tideman|C|100/100
+|4|Filter (more)|C|100/100
+|4|Recover|C|100/100
+|5|Speller|C|100/100
+|6|Sentimental/Hello|Python|100/100
+|6|Sentimental/Mario (more)|Python|100/100
+|6|Sentimental/Credit|Python|100/100
+|6|Sentimental/Readability|Python|100/100
+|6|DNA|Python|100/100
+|7|Movies|Sql|100/100
+|7|Houses|Sql|100/100
